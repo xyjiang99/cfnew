@@ -338,7 +338,6 @@ path 示例：
 - 反代IP来自 [qwer-search](https://github.com/qwer-search)
 - 在线优选接口来自 [白嫖哥](https://t.me/bestcfipas)
 
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=byJoey/cfnew&type=Timeline)](https://www.star-history.com/#byJoey/cfnew&Timeline&LogScale)
